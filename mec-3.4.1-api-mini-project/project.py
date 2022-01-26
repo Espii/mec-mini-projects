@@ -97,9 +97,6 @@ q2 = rData
 q3 = getMinMaxPrices(dataset, records, "Open")
 q4 = getLargestChange(dataset, records)
 q5 = getLargestChangeBetweenAnyTwoDays(dataset, records)
-#too vague.
-#between any two consecutive days? (what to do about islands?)
-#between any days? (sum of the largest and second largest change)
 q6 = getAverageDailyTradingVolume(dataset, records)
 print(q3)
 print(q4)
