@@ -1,0 +1,10 @@
+How to request data? is there Direct DB access, API, or some other protocol?
+Have documentaion and or erd?
+How to access:
+	tweets,
+	reactions (likes, dislikes, etc.)
+	date created,
+	length watched
+Any constraints? number of requests, etc.
+Where can I go for techinical issues?
+Is there a way to contact you at a later time?
