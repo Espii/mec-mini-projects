@@ -1,0 +1,6 @@
+Scrappy is stupid.
+	- It does not read from pages that are rendered with Javascript.
+	- It is pain in the arse to debug because you can't stick breakpoint on the code as you have to run "scrappy crawl (name)".
+Can do the same thing by just making a HTTP GET request to the url to get the markup and then using an HTTP parser of choice.
+
+To render the client rendered data theres selenium/puppeteer.
